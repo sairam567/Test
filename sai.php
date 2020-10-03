@@ -10,6 +10,5 @@ html lang="en">
     	this is for modification in the ,
     </p>
 	<p> This is the modification</p>
-	<p >the text file</p> 
 </body>
 </html>
