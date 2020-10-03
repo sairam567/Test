@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
+html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document Test</title>
+    <title>Services</title>
 </head>
 <body>
-   <p>This is for testing</p> 
+    <h5> services example</h5>
     <p>
     	this is for modification in the 
     </p>
